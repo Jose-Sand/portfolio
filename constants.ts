@@ -5,7 +5,7 @@
 // License text available at https://opensource.org/licenses/MIT
 
 export const METADATA = {
-  title: "Portfolio | Luis Marquez",
+  title: "Portfolio | Jose Sandoval",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
   siteUrl: "https://ayushsingh.net/",
