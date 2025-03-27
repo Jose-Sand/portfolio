@@ -1,6 +1,6 @@
 // Copyright Ayush Singh 2021,2022. All Rights Reserved.
 // Project: folio
-// Author contact: https://www.linkedin.com/in/alphaayush/
+//  
 // This file is licensed under the MIT License.
 // License text available at https://opensource.org/licenses/MIT
 
@@ -8,7 +8,6 @@ export const METADATA = {
   title: "Portfolio | Jose Sandoval",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ayushsingh.net/",
 };
 
 export const MENULINKS = [
@@ -41,15 +40,12 @@ export const TYPED_STRINGS = [
   "I design and develop motion",
 ];
 
-export const EMAIL = "ayush.singh.xda@gmail.com";
+export const EMAIL = "andresjose423@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/marquez-luis/",
-  github: "https://github.com/Luism27",
-  instagram: "https://www.instagram.com/marquezluis43/",
-  facebook: "https://www.facebook.com/lwlwllwlwlwllww",
-  twitter: "https://twitter.com/Luis_mrq27",
-  topmate: "https://topmate.io/luis_alfonso_marquez_pertuz",
+  linkedin: "https://www.linkedin.com/in/joseandressandovaljimenez/",
+  instagram: "https://www.instagram.com/josesandtech/",
+  twitter: "https://twitter.com/andresjose_423",
 };
 
 export interface IProject {
