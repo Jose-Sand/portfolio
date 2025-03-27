@@ -46,7 +46,8 @@ export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/joseandressandovaljimenez/",
   instagram: "https://www.instagram.com/josesandtech/",
   twitter: "https://twitter.com/andresjose_423",
-  topmate: "https://www.linkedin.com/in/joseandressandovaljimenez/"
+  topmate: "https://www.linkedin.com/in/joseandressandovaljimenez/",
+  siteUrl: "https://www.linkedin.com/in/joseandressandovaljimenez/"
 };
 
 export interface IProject {
