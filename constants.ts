@@ -46,7 +46,6 @@ export const EMAIL = "andresjose423@gmail.com";
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/joseandressandovaljimenez/",
   instagram: "https://www.instagram.com/josesandtech/",
-  facebook: "https://www.facebook.com/lwlwllwlwlwllww",
   twitter: "https://twitter.com/andresjose_423",
   topmate: "https://www.linkedin.com/in/joseandressandovaljimenez/"
   };
